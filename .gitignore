@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data — keep tiny samples, ignore the rest
+data/*.parquet
+data/*.feather
+
+# Editor
+.vscode/
+.idea/

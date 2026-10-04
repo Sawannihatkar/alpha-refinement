@@ -1,0 +1,12 @@
+pandas>=2.0
+numpy>=1.24
+yfinance>=0.2.40
+statsmodels>=0.14
+pandas-datareader>=0.10
+matplotlib>=3.7
+seaborn>=0.13
+scipy>=1.11
+cvxpy>=1.5
+pyportfolioopt>=1.5
+pytest>=7.4
+jupyter>=1.0
